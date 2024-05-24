@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Observing RDP Brute Force with Azure Sentinel]
+- [Observing RDP Brute Force with Azure Sentinel](https://github.com/RyanBukaty/Observing-RDP-Brute-Force-with-Azure-Sentinel)
 
  <h2>📜 Certifications</h2>
 
