@@ -1,8 +1,8 @@
-<h1>Hi, I'm Ryan! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ryan! <a href="https://www.linkedin.com/in/ryanbukaty/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Observing RDP Brute Force with Azure Sentinel</b>
+- [Observing RDP Brute Force with Azure Sentinel]
 
  <h2>📜 Certifications</h2>
 
